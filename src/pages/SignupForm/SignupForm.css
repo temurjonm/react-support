@@ -1,0 +1,41 @@
+.form-control {
+  border-radius: 4px;
+  margin: 10px;
+}
+
+.form-group {
+  margin: 1px;
+  border-radius: 4px;
+  margin: 10px;
+}
+
+.form-horizontal {
+  border-radius: 10px;
+}
+
+.sumbit-button {
+  margin-top: 4px;
+}
+
+.SignupForm {
+  margin-top: 2%;
+}
+
+.header-footer {
+  font-size: 30px;
+  color: black !important;
+}
+
+.form-horizontal {
+  background-color: white;
+}
+
+p{
+  font-size: 20px;
+}
+
+.sign-in-with{
+  display: inline;
+  width: 100%;
+  height: auto;
+}

@@ -1,0 +1,36 @@
+.form-control {
+  background-color: white;
+  border-radius: 4px;
+  margin: 10px;
+}
+
+.form-group {
+  margin: 1px;
+  border-radius: 4px;
+  margin: 10px;
+}
+
+.col-sm-12 TextField label {
+  color: white;
+}
+
+.LoginPage {
+  margin-top: 2%;
+  display: absolute;
+  background-color: white;
+}
+
+.header-footer {
+  color: white;
+  font-size: 30px;
+}
+
+.cancel {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.form-horizontal {
+  background-color: white;
+}
